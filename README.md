@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In your project directory, run:
 
-### `npm install codebash_64_test_plugin`
+### `npm install hrnet-modal-plugin`
 
 ## Run the modal
 
@@ -42,7 +42,7 @@ Here is a basic example of the modal being used in an app:
 
 ```jsx
 import React from "react";
-import { Modal } from "codebash_64_test_plugin";
+import { Modal } from "hrnet-modal-plugin";
 import { useState } from "react";
 
 function App() {
